@@ -1,4 +1,4 @@
-PhtotShop快捷键
+* PhtotShop快捷键
 ctrl + n 新建
 ctrl + o 打开
 v 移动
