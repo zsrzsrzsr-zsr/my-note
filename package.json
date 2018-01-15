@@ -1,0 +1,23 @@
+{
+  "name": "my-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsrzsrzsr-zsr/my-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsrzsrzsr-zsr/my-note/issues"
+  },
+  "homepage": "https://github.com/zsrzsrzsr-zsr/my-note#readme",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
